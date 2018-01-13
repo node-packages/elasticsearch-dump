@@ -29,9 +29,10 @@
   "dependencies": {
     "JSONStream": "^1.3.2",
     "async": "^2.6.0",
-    "aws4": "^1.6.0",
     "aws-sdk": "^2.175.0",
+    "aws4": "^1.6.0",
     "ini": "^1.3.5",
+    "lodash": "4.17.4",
     "optimist": "latest",
     "request": "2.x.x"
   },
