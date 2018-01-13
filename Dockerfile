@@ -3,4 +3,4 @@ LABEL maintainer="ferronrsmith@gmail.com"
 
 RUN npm install elasticdump-next -g
 
-ENTRYPOINT ["/usr/lib/node_modules/elasticdump/bin/elasticdump"]
+ENTRYPOINT ["elasticdump"]
