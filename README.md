@@ -1,7 +1,7 @@
 [DEPRECATED] elasticdump-next
 ==================
 
-### This module has been deprecated. I was asked to become a maintainer of __taskrabbit/elasticsearch-dump__. Because the works does overlap I am deprecating this module. All future updates will be added to that repository. Thanks !
+### This module has been deprecated. I was asked to become a maintainer of __taskrabbit/elasticsearch-dump__. Because of the overlap I have decided to deprecate this module. All changes from __elasticdump-next__ has already been merged & future updates will be added to that repository. Thanks for your support !
 
 Tools for moving and saving indicies.
 
